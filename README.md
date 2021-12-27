@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="japneet-s-ab786b10a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/japneet-s-ab786b10a?trk=profile-badge">Japneet S.</a></div>
+              
 <a href="https://github.com/japneetsingh5">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=japneetsingh5&&show_icons=true" />
 </a>
