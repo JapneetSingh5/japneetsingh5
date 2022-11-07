@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=japneetsingh5&&show_icons=true" />
 </a>
 <a href="https://github.com/japneetsingh5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japneetsingh5&layout=compact&hide=css&langs_count=8&?count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=japneetsingh5&layout=compact&hide=css,html&langs_count=8&?count_private=true" />
 </a>
 <!--
 **JapneetSingh5/japneetsingh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
